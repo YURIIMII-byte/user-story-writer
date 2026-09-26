@@ -1,0 +1,1 @@
+Let users save a cart and come back to it later, even on another device. Maybe email them a reminder if they forget.
